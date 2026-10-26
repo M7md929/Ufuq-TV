@@ -1,0 +1,257 @@
+Ufuq TV 1.9.1 — Oman photo library
+
+Developer display name: M7MD929.
+30 genuine photographs: 25 UHD images (3840 x 2160) and 5 Al Hijr photographs retained at their native resolutions.
+The 448 x 252 previews are downsampled, 16:9 cropped derivatives of the corresponding photographs below.
+UHD edits: 16:9 crop, downsampling and JPEG recompression. Al Hijr photos: JPEG recompression, native resolution and aspect ratio retained. No image was upscaled.
+Each Wikimedia derivative retains its corresponding license. Copyright is retained by the photographer/source for non-openly-licensed Al Hijr photos; no open license is claimed.
+
+مسقط — muscat.jpg
+Author / credit: Mostafameraji
+Source: https://commons.wikimedia.org/wiki/File:Muscat,_Oman_مسقط،_عمان_19.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+Original: 6000 x 4000
+Bundled: 3840 x 2160
+
+وادي شاب — wadi_shab.jpg
+Author / credit: Paul IJpelaar
+Source: https://commons.wikimedia.org/wiki/File:Wadi_Shab_-_panoramio.jpg
+License / rights: CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Original: 4000 x 3000
+Bundled: 3840 x 2160
+
+جبل شمس — jebel_shams.jpg
+Author / credit: Andries Oudshoorn
+Source: https://commons.wikimedia.org/wiki/File:Jebel_Shams.jpg
+License / rights: CC BY-SA 2.0
+https://creativecommons.org/licenses/by-sa/2.0/
+Original: 4368 x 2912
+Bundled: 3840 x 2160
+
+شاطئ طيوي — oman_05.jpg
+Author / credit: Nadeem Sait
+Source: https://commons.wikimedia.org/wiki/File:TiWi_Beach,_OMAN-1.jpg
+License / rights: CC0
+http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Original: 3886 x 2468
+Bundled: 3840 x 2160
+
+شاطئ القرم — oman_07.jpg
+Author / credit: Albinfo
+Source: https://commons.wikimedia.org/wiki/File:Muscat_Beach_(Qurm).jpg
+License / rights: CC BY 4.0
+https://creativecommons.org/licenses/by/4.0
+Original: 4912 x 3264
+Bundled: 3840 x 2160
+
+غروب مسندم — oman_08.jpg
+Author / credit: traveljunction
+Source: https://commons.wikimedia.org/wiki/File:Sunset_in_the_Musandam,_Oman_(16614163512).jpg
+License / rights: CC BY-SA 2.0
+https://creativecommons.org/licenses/by-sa/2.0
+Original: 3872 x 2592
+Bundled: 3840 x 2160
+
+ساحل دبا البيعة — oman_09.jpg
+Author / credit: Nintentoad125
+Source: https://commons.wikimedia.org/wiki/File:Dibba_Al-Baya_coastline.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 3968 x 2976
+Bundled: 3840 x 2160
+
+خصب — oman_10.jpg
+Author / credit: Toppazz
+Source: https://commons.wikimedia.org/wiki/File:Khasab,_Musandam,_Oman_-_panoramio.jpg
+License / rights: CC BY 3.0
+https://creativecommons.org/licenses/by/3.0
+Original: 4000 x 3000
+Bundled: 3840 x 2160
+
+ساحل مسندم — oman_11.jpg
+Author / credit: Robert Haandrikman
+Source: https://commons.wikimedia.org/wiki/File:Beach_view,_Musandam,_Oman_(36235587123).jpg
+License / rights: CC BY 2.0
+https://creativecommons.org/licenses/by/2.0
+Original: 6720 x 4480
+Bundled: 3840 x 2160
+
+مروج صلالة — oman_12.jpg
+Author / credit: Poojaryroshan
+Source: https://commons.wikimedia.org/wiki/File:Salalah_landscape_meadows.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 4032 x 3024
+Bundled: 3840 x 2160
+
+خريف صلالة — oman_13.jpg
+Author / credit: MURSHID THALI PARAMBAN
+Source: https://commons.wikimedia.org/wiki/File:Khareef_season,salalah,Oman.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 4032 x 3024
+Bundled: 3840 x 2160
+
+وادي دوكة — oman_14.jpg
+Author / credit: Dr. Thomas Liptak
+Source: https://commons.wikimedia.org/wiki/File:Oman,_Wadi_Dawkah,_Land_of_Frankincense.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 4910 x 2762
+Bundled: 3840 x 2160
+
+قلعة نزوى — oman_15.jpg
+Author / credit: Martin Falbisoner
+Source: https://commons.wikimedia.org/wiki/File:Nizwa_Fort_and_Minaret_of_Friday_Mosque.JPG
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 5441 x 3594
+Bundled: 3840 x 2160
+
+نزوى ليلًا — oman_16.jpg
+Author / credit: Dr. Thomas Liptak
+Source: https://commons.wikimedia.org/wiki/File:Oman,_Nizwa,_Fort_Nizwa_(at_night).jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 5078 x 3405
+Bundled: 3840 x 2160
+
+وادي شاب — المياه — oman_17.jpg
+Author / credit: albinfo
+Source: https://commons.wikimedia.org/wiki/File:Wadi_Shab_3.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 4912 x 3264
+Bundled: 3840 x 2160
+
+وادي شاب — الصخور — oman_18.jpg
+Author / credit: dconvertini
+Source: https://commons.wikimedia.org/wiki/File:Wadi_Shab,_Oman_-_2024_14.jpg
+License / rights: CC BY-SA 2.0
+https://creativecommons.org/licenses/by-sa/2.0
+Original: 6000 x 4000
+Bundled: 3840 x 2160
+
+رمال الشرقية — الكثبان — oman_19.jpg
+Author / credit: Diego Delso
+Source: https://commons.wikimedia.org/wiki/File:Desierto_de_Wahiba,_Om%C3%A1n,_2024-08-17,_DD_08.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 8688 x 5792
+Bundled: 3840 x 2160
+
+رمال الشرقية — الأفق — oman_20.jpg
+Author / credit: Diego Delso
+Source: https://commons.wikimedia.org/wiki/File:Desierto_de_Wahiba,_Om%C3%A1n,_2024-08-17,_DD_17.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 8688 x 5792
+Bundled: 3840 x 2160
+
+رمال الشرقية — الإبل — oman_21.jpg
+Author / credit: albinfo
+Source: https://commons.wikimedia.org/wiki/File:Camels_in_Wahiba_Sands_03.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 4912 x 3264
+Bundled: 3840 x 2160
+
+مسفاة العبريين — oman_22.jpg
+Author / credit: dconvertini
+Source: https://commons.wikimedia.org/wiki/File:Misfat_al_Abriyyin,_Oman_-_2024_14.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 5407 x 3605
+Bundled: 3840 x 2160
+
+الجبل الأخضر — العين — oman_23.jpg
+Author / credit: dconvertini
+Source: https://commons.wikimedia.org/wiki/File:Al_Ain,_Jabel_Akhdar,_Oman_2024_8.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 6000 x 4000
+Bundled: 3840 x 2160
+
+جبل شمس — الممر الجبلي — oman_24.jpg
+Author / credit: dconvertini
+Source: https://commons.wikimedia.org/wiki/File:Jabal_Shams,_Balcony_Walk,_Oman_-_2024_20.jpg
+License / rights: CC BY-SA 2.0
+https://creativecommons.org/licenses/by-sa/2.0
+Original: 6000 x 4000
+Bundled: 3840 x 2160
+
+جبل المشط — الواجهة الصخرية — jebel_misht_01.jpg
+Author / credit: yuichi hayakawa from tokyo, japan
+Source: https://commons.wikimedia.org/wiki/File:Jebel_Mischt_(32755292976).jpg
+License / rights: CC BY-SA 2.0
+https://creativecommons.org/licenses/by-sa/2.0
+Original: 5899 x 3320
+Bundled: 3840 x 2160
+
+جبل المشط — ظلال السحب — jebel_misht_02.jpg
+Author / credit: Marco Zanferrari
+Source: https://commons.wikimedia.org/wiki/File:Jebel_Misht.jpg
+License / rights: CC BY-SA 2.0
+https://creativecommons.org/licenses/by-sa/2.0
+Original: 3888 x 2592
+Bundled: 3840 x 2160
+
+جبل المشط — آثار العين — jebel_misht_03.jpg
+Author / credit: Bernhard Dunst
+Source: https://commons.wikimedia.org/wiki/File:Dunst_Oman_scan0524.jpg
+License / rights: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0
+Original: 6812 x 4440
+Bundled: 3840 x 2160
+
+الهجر — عبري — al_hijr_ibri.jpg
+Author / credit: عبدالحميد المعمري
+Source: https://malhinai121.wixsite.com/wkbh/alhjr
+License / rights: حقوق المصور محفوظة؛ لم يذكر المصدر ترخيصًا حرًا لإعادة الاستخدام
+Personal TV wallpaper requested by the user. No open license is claimed; copyright remains with the photographer.
+Original: 1200 x 900
+Bundled: 1200 x 900
+
+الهجر — المزارع والوادي — al_hijr_02.jpg
+Author / credit: عبدالحميد المعمري
+Source: https://malhinai121.wixsite.com/wkbh/alhjr
+License / rights: حقوق محفوظة للمصور والمصدر؛ لا يُدّعى ترخيص حر
+Bundled for this personal TV at the user request, with source attribution. No open reuse license is asserted. Native resolution retained; no upscaling.
+Original: 1200 x 900
+Bundled: 1200 x 900
+
+وادي الهجر — النخيل — al_hijr_03.jpg
+Author / credit: المصور غير مذكور؛ المصدر: العُمانية / أثير
+Source: https://www.atheer.om/archive/600238/
+License / rights: حقوق محفوظة للمصور والمصدر؛ لا يُدّعى ترخيص حر
+Bundled for this personal TV at the user request, with source attribution. No open reuse license is asserted. Native resolution retained; no upscaling.
+Original: 1024 x 768
+Bundled: 1024 x 768
+
+وادي الهجر — سفوح الجبال — al_hijr_04.jpg
+Author / credit: المصور غير مذكور؛ المصدر: العُمانية / أثير
+Source: https://www.atheer.om/archive/600238/
+License / rights: حقوق محفوظة للمصور والمصدر؛ لا يُدّعى ترخيص حر
+Bundled for this personal TV at the user request, with source attribution. No open reuse license is asserted. Native resolution retained; no upscaling.
+Original: 1024 x 768
+Bundled: 1024 x 768
+
+وادي الهجر — جريان الماء — al_hijr_05.jpg
+Author / credit: المصور غير مذكور؛ المصدر: العُمانية / أثير
+Source: https://www.atheer.om/archive/600238/
+License / rights: حقوق محفوظة للمصور والمصدر؛ لا يُدّعى ترخيص حر
+Bundled for this personal TV at the user request, with source attribution. No open reuse license is asserted. Native resolution retained; no upscaling.
+Original: 1024 x 768
+Bundled: 1024 x 768
+
+Weather and geocoding: Open-Meteo
+https://open-meteo.com/en/docs
+https://open-meteo.com/en/docs/geocoding-api
+Weather data: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Location search: GeoNames via Open-Meteo. https://www.geonames.org/
+
+The initial weather location is Ibri (23.22573, 56.51572), Oman: an approximate reading for Al Hajar. No GPS measurement is taken.
+
+No ads, analytics or trackers. Only Internet permission is requested, for weather and city searches. The photo library works offline. The screensaver uses Android DreamService; the app contains no accessibility service.

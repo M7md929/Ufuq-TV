@@ -1,0 +1,107 @@
+{
+  "version": "1.0.0",
+  "package": "om.ufuq.remote",
+  "apkSha256": "b951bebe7c4196b51519859f96c3d3fd10cec04a1fe7f5b5584991485707c8df",
+  "apkBytes": 73433925,
+  "minimumAndroid": "8 / API 26",
+  "targetSdk": 35,
+  "photos": 30,
+  "photoAssetsMatchTvProject": true,
+  "unitAssertionsPassed": 37,
+  "uiChecks": [
+    {
+      "check": "Pairing dialog is displayed",
+      "passed": true
+    },
+    {
+      "check": "Invalid pairing code never authenticates",
+      "passed": true
+    },
+    {
+      "check": "Phone completes mutual TLS and Remote v2 handshake",
+      "passed": true
+    },
+    {
+      "check": "All 13 core controls transmit expected key codes",
+      "passed": true
+    },
+    {
+      "check": "Keyboard text uses negotiated IME counters",
+      "passed": true
+    },
+    {
+      "check": "YouTube shortcut sends a TV app link",
+      "passed": true
+    },
+    {
+      "check": "Keepalive ping responses arrive",
+      "passed": true
+    },
+    {
+      "check": "Saved certificate reconnects without another pairing code",
+      "passed": true
+    },
+    {
+      "check": "Gallery displays real image thumbnails",
+      "passed": true
+    },
+    {
+      "check": "Monkey has an explicit preview action",
+      "passed": true
+    },
+    {
+      "check": "Monkey preview video captured",
+      "passed": true
+    }
+  ],
+  "physicalTvChecks": [
+    {
+      "check": "Real Xiaomi pairing dialog appears in Android app",
+      "passed": true
+    },
+    {
+      "check": "App establishes Remote v2 session with real MiTV",
+      "passed": true
+    },
+    {
+      "check": "Home sent from mobile app actually opens Ufuq on Xiaomi",
+      "passed": true
+    },
+    {
+      "check": "Mobile monkey preview remains available while TV is connected",
+      "passed": true
+    }
+  ],
+  "finalVisualChecks": [
+    {
+      "check": "Final APK reconnects to real Xiaomi after update",
+      "passed": true
+    },
+    {
+      "check": "Power button is available when connected",
+      "passed": true
+    },
+    {
+      "check": "Chosen Oman photo becomes the phone background",
+      "passed": true
+    },
+    {
+      "check": "Wallpaper selection survives process restart",
+      "passed": true
+    },
+    {
+      "check": "Compact phone keeps D-pad and Home usable",
+      "passed": true
+    },
+    {
+      "check": "Compact phone can scroll to lower controls",
+      "passed": true
+    }
+  ],
+  "changedTvCertificateRejected": true,
+  "physicalPhoneInstalled": false,
+  "testedEnvironment": "Android 10 emulator in 392dp and 320dp portrait layouts; real Xiaomi MiTV-MOOQ1 Remote v2 pairing and Home response",
+  "backgroundSync": "Same offline image collection, independently selected or shuffled",
+  "monkeyScope": "Inside the app while foreground only; default 2 percent, one opportunity/hour",
+  "verifiedAtUtc": "2026-10-26T04:05:08.912956+00:00"
+}
