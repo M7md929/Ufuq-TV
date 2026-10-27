@@ -1,107 +1,59 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "versionCode": 2,
   "package": "om.ufuq.remote",
-  "apkSha256": "b951bebe7c4196b51519859f96c3d3fd10cec04a1fe7f5b5584991485707c8df",
-  "apkBytes": 73433925,
-  "minimumAndroid": "8 / API 26",
-  "targetSdk": 35,
-  "photos": 30,
-  "photoAssetsMatchTvProject": true,
-  "unitAssertionsPassed": 37,
-  "uiChecks": [
+  "apkSha256": "99727af469d30f0a85a31182b0c53f0212bc755eb81799129e77a31dcebf0e58",
+  "apkBytes": 73450311,
+  "unitAssertionsPassed": 80,
+  "uiAndInputChecks": [
     {
-      "check": "Pairing dialog is displayed",
+      "check": "Final APK mouse connection",
       "passed": true
     },
     {
-      "check": "Invalid pairing code never authenticates",
+      "check": "Final APK actual mouse hover and click",
       "passed": true
     },
     {
-      "check": "Phone completes mutual TLS and Remote v2 handshake",
+      "check": "Final APK actual mouse wheel events",
       "passed": true
     },
     {
-      "check": "All 13 core controls transmit expected key codes",
+      "check": "Visible TV cursor surface exists",
       "passed": true
     },
     {
-      "check": "Keyboard text uses negotiated IME counters",
+      "check": "Final APK keyboard text and special keys",
       "passed": true
     },
     {
-      "check": "YouTube shortcut sends a TV app link",
+      "check": "Final APK wake is idempotent",
       "passed": true
     },
     {
-      "check": "Keepalive ping responses arrive",
+      "check": "Leaving phone app removes TV cursor",
       "passed": true
     },
     {
-      "check": "Saved certificate reconnects without another pairing code",
-      "passed": true
-    },
-    {
-      "check": "Gallery displays real image thumbnails",
-      "passed": true
-    },
-    {
-      "check": "Monkey has an explicit preview action",
-      "passed": true
-    },
-    {
-      "check": "Monkey preview video captured",
+      "check": "Remote reconnects after backgrounding",
       "passed": true
     }
   ],
-  "physicalTvChecks": [
-    {
-      "check": "Real Xiaomi pairing dialog appears in Android app",
-      "passed": true
-    },
-    {
-      "check": "App establishes Remote v2 session with real MiTV",
-      "passed": true
-    },
-    {
-      "check": "Home sent from mobile app actually opens Ufuq on Xiaomi",
-      "passed": true
-    },
-    {
-      "check": "Mobile monkey preview remains available while TV is connected",
-      "passed": true
-    }
-  ],
-  "finalVisualChecks": [
-    {
-      "check": "Final APK reconnects to real Xiaomi after update",
-      "passed": true
-    },
-    {
-      "check": "Power button is available when connected",
-      "passed": true
-    },
-    {
-      "check": "Chosen Oman photo becomes the phone background",
-      "passed": true
-    },
-    {
-      "check": "Wallpaper selection survives process restart",
-      "passed": true
-    },
-    {
-      "check": "Compact phone keeps D-pad and Home usable",
-      "passed": true
-    },
-    {
-      "check": "Compact phone can scroll to lower controls",
-      "passed": true
-    }
-  ],
-  "changedTvCertificateRejected": true,
+  "adbKeystoreSignatureVerified": true,
+  "udpWakeOnLanBroadcast": {
+    "udpBroadcastReceived": true,
+    "bytes": 102,
+    "validMagicPacket": true
+  },
+  "pointerLiveness": {
+    "heartbeatFramesObserved": 15,
+    "lostConnectionWatchdogExitSeconds": 16.02,
+    "orphanCursorRemoved": true
+  },
+  "testTransport": "Independent ADB wire peer validates RSA and sync, then relays shell to Android TV 10 target emulator. Remote v2 independent TLS fixture. Real hover, click, wheel, and SurfaceControl cursor on target emulator.",
+  "physicalXiaomiTestedThisVersion": false,
+  "physicalTvLimitation": "192.168.8.13:5555 did not respond on 2026-10-27. Hardware wake and ADB approval still need verification.",
   "physicalPhoneInstalled": false,
-  "testedEnvironment": "Android 10 emulator in 392dp and 320dp portrait layouts; real Xiaomi MiTV-MOOQ1 Remote v2 pairing and Home response",
-  "backgroundSync": "Same offline image collection, independently selected or shuffled",
-  "monkeyScope": "Inside the app while foreground only; default 2 percent, one opportunity/hour",
-  "verifiedAtUtc": "2026-10-26T04:05:08.912956+00:00"
+  "previousVersionPhysicalTvEvidence": "Remote v1.0.0 pairing and Home verified on Xiaomi MiTV-MOOQ1. This is not new-version mouse/wake validation.",
+  "verifiedAtUtc": "2026-10-27T06:25:41.658368+00:00"
 }

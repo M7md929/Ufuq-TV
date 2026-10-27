@@ -70,7 +70,7 @@ final class RemoteSession {
                 if(message.has(1)){
                     features=(int)message.child(1).number(1)&(1|2|4|32|64|512);
                     if((features&2)==0)throw new IOException("خدمة التلفاز لا تدعم أزرار الريموت");
-                    byte[] info=Wire.b().text(1,"Ufuq Remote").text(2,"M7MD929").number(3,1).text(4,"1").text(5,"om.ufuq.remote").text(6,"1.0.0").build();
+                    byte[] info=Wire.b().text(1,"Ufuq Remote").text(2,"M7MD929").number(3,1).text(4,"1").text(5,"om.ufuq.remote").text(6,"1.1.0").build();
                     sendNow(Wire.b().bytes(1,Wire.b().number(1,features).bytes(2,info).build()).build());
                 }
                 if(message.has(2))sendNow(Wire.b().bytes(2,Wire.b().number(1,features).build()).build());
@@ -86,7 +86,7 @@ final class RemoteSession {
     private void queue(byte[] payload){if(!ready)return;int run=epoch.get();writes.execute(()->{try{if(run==epoch.get()&&ready)sendNow(payload);}catch(Exception error){fail(run,error);}});}
     void key(int code,int direction){queue(Wire.b().bytes(10,Wire.b().number(1,code).number(2,direction).build()).build());}
     void text(String value){
-        if(!hasTextField()||value.isEmpty())return;int cursor=value.codePointCount(0,value.length())-1;
+        if(!hasTextField()||value.isEmpty())return;int cursor=value.length()-1;
         byte[] object=Wire.b().number(1,cursor).number(2,cursor).text(3,value).build();
         byte[] edit=Wire.b().number(1,1).bytes(2,object).build();
         queue(Wire.b().bytes(21,Wire.b().number(1,imeCounter).number(2,fieldCounter).bytes(3,edit).build()).build());

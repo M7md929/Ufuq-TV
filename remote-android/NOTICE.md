@@ -8,6 +8,8 @@ The local Android TV Remote v2 wire implementation follows the Polo and Remote m
 
 `Wire`, `RemoteSession`, `ClientIdentity` and the phone UI are native Java implementations for this project. The photo catalog, renderer and monkey geometry were adapted from Ufuq TV. `MonkeyMotion` sizes the portrait character using screen width while retaining corner anchoring.
 
+The optional mouse transport implements the [AOSP ADB protocol](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/protocol.txt) and [Android RSA public key format](https://android.googlesource.com/platform/system/core/+/refs/heads/main/libcrypto_utils/android_pubkey.cpp). `AdbWire`, `AdbIdentity`, `AdbPointer`, `PointerAgent` and `WakeOnLan` are project implementations. No ADB executable or third-party ADB library is embedded. `PointerAgent` uses Android's input APIs as an explicitly authorized shell process, comparable to the [AOSP input command](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/android10-release/cmds/input/src/com/android/commands/input/Input.java); it is not an accessibility service and does not listen on a network port.
+
 Oman photographs: see `assets/credits.txt` and `assets/photos.json`. Each image retains its individual attribution, license or reserved rights. The monkey atlas was generated using ImageGen for Ufuq.
 
 No open-source license has been selected automatically for the original application code.
